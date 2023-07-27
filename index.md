@@ -1,15 +1,7 @@
 ---
 layout: default
 ---
-<amp-sticky-ad layout="nodisplay">
-  <amp-ad width="320"
-    height="50"
-    type="adsense"
-    data-ad-client="ca-pub-xxxxxxxxxxx"
-    data-slot="xxxxxxxxxxxxx">
-    gggh ads meya
-  </amp-ad>
-</amp-sticky-ad>
+ 
 1.  [3-ciri-ciri-anak-indigo/](http://indigo.jasaindigo.com/3-ciri-ciri-anak-indigo/)
 1.  [anak-1-tahun-indigo/](http://indigo.jasaindigo.com/anak-1-tahun-indigo/)
 1.  [anak-dengan-indigo/](http://indigo.jasaindigo.com/anak-dengan-indigo/)
