@@ -7,6 +7,7 @@ layout: default
     type="adsense"
     data-ad-client="ca-pub-xxxxxxxxxxx"
     data-slot="xxxxxxxxxxxxx">
+    gggh ads meya
   </amp-ad>
 </amp-sticky-ad>
 1.  [3-ciri-ciri-anak-indigo/](http://indigo.jasaindigo.com/3-ciri-ciri-anak-indigo/)
