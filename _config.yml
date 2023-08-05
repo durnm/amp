@@ -24,6 +24,8 @@ facebookShareId:
 # have a deaultImage place the linke here. (e.g. thumbnail.png)
 defaultimage: thumbnail.png
 
+permalink: /:title/
+
 sass:
     sass_dir: _sass
     style: compressed
