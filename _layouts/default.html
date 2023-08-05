@@ -34,7 +34,12 @@
       <section>
 <amp-img width="640" height="400" layout="responsive" src="https://eftyp.github.io/public/logo.png"></amp-img>
       {{ content }}
-
+<ul>
+        {% assign posts = site.posts | where_exp:"post", "post.url != page.url" | sample:10 %}
+        {% for post in posts %}
+          {% include rp.html %}
+        {% endfor %}
+      </ul>
       </section>
       <footer>
         2023
